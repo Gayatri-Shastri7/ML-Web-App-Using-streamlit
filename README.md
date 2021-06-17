@@ -16,5 +16,4 @@ Well we can draw it over here or here or like this. Any of these would be fine, 
 
 These points are known as support Vectors – Which are defined as data points that the margin pushes up against or points that are closest to the opposing class. So the algorithm basically implies that only support vector are important whereas other training examples are ‘ignorable’. An example of this is so that if you have our case of a dog that looks like a cat or cat that is groomed like a dog, we want our classifier to look at these extremes and set our margins based on these support vectors. 
 
-![image](https://user-images.githubusercontent.com/66173499/122379966-0071f380-cf85-11eb-8bf3-1def16d5e484.png)
 
